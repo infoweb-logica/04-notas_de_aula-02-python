@@ -84,7 +84,7 @@ Eu moro em Natal, RN.
 
 **17.** Declare uma variável `preco` com o valor `49.90` e exiba a mensagem:
 ```
-O preço do produto é R$ 49.9
+O preço do produto é R$ 49.90
 ```
 
 **18.** Declare uma variável `ativo` com o valor booleano `True` e exiba o seu valor.
