@@ -1,10 +1,18 @@
-# Lista de Exercícios – Python para Iniciantes
+# Lista de Exercícios – Python 02
 
+## Informações gerais
 **Disciplina**: Introdução à Lógica e Programação  
-**Tópicos**: `print`, `input`, variáveis e operações aritméticas
+**Tópicos**:
+- `print`, 
+- `input`, 
+- variáveis e operações aritméticas
 
 ---
+> **Dica 01:** Use `f-string` para as saídas com valores de variáveis.
 
+> **Dica 02:** Em todos os exercícios que utilizam `input`, lembre-se de converter o valor lido para o tipo adequado usando `int()` ou `float()` quando necessário.
+
+---
 ## Parte 1 – Comando `print`
 
 **1.** Escreva um programa que exiba na tela a mensagem:
@@ -64,7 +72,6 @@ Borracha   1.75
 ```
 
 ---
-
 ## Parte 2 – Variáveis
 
 **11.** Declare uma variável chamada `nome` com o valor `"Maria"` e exiba o conteúdo dessa variável.
@@ -99,10 +106,9 @@ Nota: 8.5
 ```
 
 ---
-
 ## Parte 3 – Comando `input`
 
-**21.** Escreva um programa que solicite o nome do usuário e exiba a mensagem `"Olá, <nome>!"`.
+**21.** Escreva um programa que solicite o nome do usuário e exiba a mensagem `"Olá, <nome>!"`. 
 
 **22.** Escreva um programa que peça a cidade do usuário e exiba:
 ```
@@ -140,7 +146,6 @@ Pessoa 2: <nome2>
 **30.** Escreva um programa que leia um número inteiro e exiba sua versão com `float` (número real).
 
 ---
-
 ## Parte 4 – Operações Aritméticas
 
 **31.** Leia dois números inteiros e exiba a sua **soma**.
@@ -164,7 +169,6 @@ Pessoa 2: <nome2>
 **40.** Leia o valor do salário de um funcionário e exiba o valor do **bônus de 15%** sobre o salário.
 
 ---
-
 ## Parte 5 – Problemas Combinados
 
 **41.** Leia o nome de um aluno e suas três notas bimestrais. Calcule e exiba a média final com a seguinte saída:
@@ -196,5 +200,3 @@ Média: <média>
 **50.** Leia o ano de nascimento de uma pessoa e o ano atual. Calcule e exiba a **idade aproximada** da pessoa.
 
 ---
-
-> **Dica:** Em todos os exercícios que utilizam `input`, lembre-se de converter o valor lido para o tipo adequado usando `int()` ou `float()` quando necessário.
