@@ -47,3 +47,5 @@
    - `2 ** (1 ** 10 + 3) // 5`
    - `- 5 * (3 + (- 3 - 8)  + 1) * -1`
 3. Escreva um programa que tem como entrada 4 números reais e imprime a média aritmética desses números. Na impressão, use apenas uma casa decimal à direita do ponto.
+
+[Lista de exercícios](/lista)
